@@ -1,0 +1,9 @@
+8
+{"type": "ProductCreated", "id": 1, "parent_id": null, "stock": 10}
+{"type": "ProductCreated", "id": 2, "parent_id": 1, "stock": 10}
+{"type": "ProductCreated", "id": 3, "parent_id": 1, "stock": 10}
+{"type": "ProductUpdated", "id": 3, "stock": 9}
+{"type": "ProductCreated", "id": 4, "parent_id": null, "stock": 7}
+{"type": "ProductUpdated", "id": 4, "stock": 9}
+{"type": "ProductCreated", "id": 5, "parent_id": 4, "stock": 8}
+{"type": "ProductUpdated", "id": 4, "stock": 6}
